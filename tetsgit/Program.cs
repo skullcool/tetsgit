@@ -10,6 +10,7 @@ namespace tetsgit
     {
         static void Main(string[] args)
         {
+            //commnet new line sk 
         }
     }
 }
